@@ -1,7 +1,7 @@
 import React from "react";
 
-const placeOrder = () => {
+const PlaceOrder = () => {
   return <div></div>;
 };
 
-export default placeOrder;
+export default PlaceOrder;

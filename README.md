@@ -17,5 +17,5 @@ Goviya is a fresh vegetable and natural products e-commerce web application deve
 ## Purpose
 This project was developed as a university final project to support local farmers and promote natural, healthy food purchasing through an online platform.
 
-## Project Name
+## Project Name:
 Goviya – Fresh & Natural Vegetable Store
